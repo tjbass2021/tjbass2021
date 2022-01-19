@@ -39,3 +39,7 @@ praticar = True
 while estudar:
     aprender = estudar + praticar
 ~~~
+<div id="status">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=tjbass2021&show_icons=true&theme=tokyonight">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tjbass2021&layout=compact&theme=tokyonight">
+</div>
