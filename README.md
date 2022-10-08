@@ -24,12 +24,19 @@ Me chamo **Thiago Jonas**. Estou estudando programação web há pouco tempo e a
 ---
 
 
-~~~python
-def estudar(teoria, pratica):
-    if teoria + pratica == sucesso:
-        print("Isso, aí! Continue estudando!")
-    else:
-        print("Não desanime, não! Errando também se aprende!")
+~~~java
+public class Main {
+  public static void main(String[] args) {
+    
+    public void estudar(int teoria, int pratica) {
+      if(teoria + pratica == true){
+        System.out.println("Isso, aí! Continue estudando!");
+      }else{
+        System.out.println("Não desanime com os erros e inconstâncias! Siga adiante!");
+      }
+    }
+  }
+}
 ~~~
 
 ~~~python
