@@ -28,7 +28,7 @@ Me chamo **Thiago Jonas**. Estou estudando programação web há pouco tempo e a
 public class Main {
   public static void main(String[] args) {
     
-    public void estudar(int teoria, int pratica) {
+    public void estudar(boolean teoria, boolean pratica) {
       if(teoria + pratica == true){
         System.out.println("Isso, aí! Continue estudando!");
       }else{
