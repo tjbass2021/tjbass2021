@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Me chamo **Thiago Jonas**. Estou estudando programação web há pouco tempo e aqui tem se tornado a minha "garagem" de experimentos onde pretendo colocar todo tipo de ideia que me vier a mente durante o meu processo de aprendizado com a programação.
+Me chamo **Thiago Jonas**. Mudei meu rumo por aqui. Voltei a estudar python e é a isso que tenho me dedicado (inclusive pondo em prática alguns projetos engavetados e vendo a possibilidade de outros)!
+
+Linux, shell-script e Java também seguem em meu coração.
 
 É isto! Bora codar!
 
